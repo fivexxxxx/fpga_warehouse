@@ -1,0 +1,100 @@
+# //  ModelSim SE 10.1a Feb 22 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do compile.do 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module mean_filter
+# ** Error: ../design/mean_filter.v(4): near "10": syntax error, unexpected INTEGER NUMBER, expecting ')'
+# ** Error: C:/modeltech_10.1a/win32/vlog failed.
+# Error in macro ./compile.do line 12
+# C:/modeltech_10.1a/win32/vlog failed.
+#     while executing
+# "vlog  -work work ../design/*.v"
+do compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module mean_filter
+# ** Error: ../design/mean_filter.v(4): near "10": syntax error, unexpected INTEGER NUMBER, expecting ')'
+# ** Error: C:/modeltech_10.1a/win32/vlog failed.
+# Error in macro ./compile.do line 12
+# C:/modeltech_10.1a/win32/vlog failed.
+#     while executing
+# "vlog  -work work ../design/*.v"
+do compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module mean_filter
+# ** Error: ../design/mean_filter.v(4): near "10": syntax error, unexpected INTEGER NUMBER, expecting ')'
+# ** Error: C:/modeltech_10.1a/win32/vlog failed.
+# Error in macro ./compile.do line 12
+# C:/modeltech_10.1a/win32/vlog failed.
+#     while executing
+# "vlog  -work work ../design/*.v"
+do compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module mean_filter
+# ** Error: ../design/mean_filter.v(5): near "10": syntax error, unexpected INTEGER NUMBER, expecting ')'
+# ** Error: C:/modeltech_10.1a/win32/vlog failed.
+# Error in macro ./compile.do line 12
+# C:/modeltech_10.1a/win32/vlog failed.
+#     while executing
+# "vlog  -work work ../design/*.v"
+do compile.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module mean_filter
+# 
+# Top level modules:
+# 	mean_filter
+# Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+# -- Compiling module mean_filter_tb
+# 
+# Top level modules:
+# 	mean_filter_tb
+# vsim -voptargs=+acc work.glbl work.mean_filter_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# Loading work.glbl(fast)
+# Loading work.mean_filter_tb(fast)
+# Loading work.mean_filter(fast)
