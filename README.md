@@ -3,6 +3,8 @@ FPGA 示例集合，CRC, ASK, FSM,  SYN FIFO/ ASYN, FIFO,MEAN Filter,SPI+ ADC128
 
 不定期增加  
 
+安装过modelsim后， 运行 run_simulation.bat文件即可进行仿真，该文件每个目录都有。
+
 1  CRC  
 
 2  ASK  
